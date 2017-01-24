@@ -1,0 +1,36 @@
+Code Book
+This code book summarizes the resulting data fields in tidyData.txt.
+
+1. Subject: The ID of the test subject	
+
+2. Activity Type:The type of activity performed when the corresponding measurements were taken
+
+3. Measurement 
+
+·	tBodyAccMag-mean
+·	tBodyAccMag-std
+·	tGravityAccMag-mean
+·	tGravityAccMag-std	
+·	tBodyAccJerkMag-mean
+·	tBodyAccJerkMag-std	
+·	tBodyGyroMag-mean
+·	tBodyGyroMag-std	
+·	tBodyGyroJerkMag-mean
+·	tBodyGyroJerkMag-std	
+·	fBodyAccMag-mean
+·	fBodyAccMag-std	
+·	fBodyBodyAccJerkMag-mean
+·	fBodyBodyAccJerkMag-std
+·	fBodyBodyGyroMag-mean	
+·	fBodyBodyGyroMag-std
+·	fBodyBodyGyroJerkMag-mean	
+·	fBodyBodyGyroJerkMag-std	
+
+4. Subject labels 
+
+·	WALKING
+·	WALKING_UPSTAIRS
+·	WALKING_DOWNSTAIRS
+·	SITTING
+·	STANDING
+·	LAYING
