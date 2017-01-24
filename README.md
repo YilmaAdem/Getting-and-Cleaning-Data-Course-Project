@@ -1,5 +1,5 @@
 # As part of Getting-and-Cleaning-Data-Course-Project
-     The script ( run_analysis.R)  does the following:
+     The script ( run_analysis.R)  does the following and the result is creating a tidyData.txt
 	·	Download the dataset 
 	·	Loads and reads the activity and feature info
 	·	Loads and reads both the training and test datasets, keeping only those columns which reflect a mean or standard deviation
@@ -7,4 +7,3 @@
 	·	Merges the two datasets
 	.       Create final datasets
 	·	Creates a tidy dataset that consists of the average.
-	The end result is shown in the file tidy.txt.
